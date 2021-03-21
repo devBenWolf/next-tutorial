@@ -1,7 +1,7 @@
 
 import Navbar from "react-bootstrap/Navbar"
 import Nav from "react-bootstrap/Nav"
-import Link from "next/Link"
+import Link from "next/link"
 
 export default function Navigation() {
     return (
